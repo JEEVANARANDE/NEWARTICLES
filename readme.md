@@ -1,10 +1,10 @@
 create env
 ```bash
-conda create -n BackOrder python=3.7 -y
+conda create -n Article python=3.7 -y
 ```
 activate env
 ```bash
-conda activate BackOrder
+conda activate Article
 ```
 created a req file
 
